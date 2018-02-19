@@ -1,0 +1,91 @@
+db.dealrole.insert([{
+    dealRoleId:NumberInt(1),
+    dealNumber:NumberInt(1),
+    dealRoleName:"Integration Lead",
+    users:["Hiranmayi Thacker"],
+"createdBy":"Admin",
+    "updatedBy":"Admin",
+    "createdAt":ISODate(),
+    "updatedAt":ISODate()
+},
+{
+    dealRoleId:NumberInt(2),
+    dealNumber:NumberInt(2),
+    dealRoleName:"Integration Lead",
+    users:["Hiranmayi Thacker"],
+    "createdBy":"Admin",
+    "updatedBy":"Admin",
+    "createdAt":ISODate(),
+    "updatedAt":ISODate()
+},
+{
+    dealRoleId:NumberInt(3),
+    dealNumber:NumberInt(3),
+    dealRoleName:"Integration Lead",
+    users:["Hiranmayi Thacker"],
+"createdBy":"Admin",
+    "updatedBy":"Admin",
+    "createdAt":ISODate(),
+    "updatedAt":ISODate()
+},
+{
+    dealRoleId:NumberInt(4),
+    dealNumber:NumberInt(4),
+    dealRoleName:"Integration Lead",
+    users:["Hiranmayi Thacker"],
+    "createdBy":"Admin",
+    "updatedBy":"Admin",
+    "createdAt":ISODate(),
+    "updatedAt":ISODate()
+},
+{
+    dealRoleId:NumberInt(5),
+    dealNumber:NumberInt(5),
+    dealRoleName:"Integration Lead",
+    users:["Hiranmayi Thacker"],
+    "createdBy":"Admin",
+    "updatedBy":"Admin",
+    "createdAt":ISODate(),
+    "updatedAt":ISODate()
+},
+{
+    dealRoleId:NumberInt(6),
+    dealNumber:NumberInt(6),
+    dealRoleName:"Integration Lead",
+    users:["Hiranmayi Thacker"],
+    "createdBy":"Admin",
+    "updatedBy":"Admin",
+    "createdAt":ISODate(),
+    "updatedAt":ISODate()
+},
+{
+    dealRoleId:NumberInt(7),
+    dealNumber:NumberInt(7),
+    dealRoleName:"Integration Lead",
+    users:["Hiranmayi Thacker"],
+    "createdBy":"Admin",
+    "updatedBy":"Admin",
+    "createdAt":ISODate(),
+    "updatedAt":ISODate()
+},
+{
+    dealRoleId:NumberInt(8),
+    dealNumber:NumberInt(8),
+    dealRoleName:"Integration Lead",
+    users:["Hiranmayi Thacker"],
+    "createdBy":"Admin",
+    "updatedBy":"Admin",
+    "createdAt":ISODate(),
+    "updatedAt":ISODate()
+},
+{
+    dealRoleId:NumberInt(9),
+    dealNumber:NumberInt(9),
+    dealRoleName:"Integration Lead",
+    users:["Hiranmayi Thacker"],
+    "createdBy":"Admin",
+    "updatedBy":"Admin",
+    "createdAt":ISODate(),
+    "updatedAt":ISODate()
+}]
+)    
